@@ -69,8 +69,8 @@ export function Header() {
           </div>
           <div className="flex items-center gap-3 text-white/70">
             <Phone size={12} className="text-[var(--color-accent-gold)]" />
-            <a href="tel:+911234567890" className="hover:text-[var(--color-accent-gold)] transition-colors">
-              +91 12345 67890
+            <a href="tel:+919425066170" className="hover:text-[var(--color-accent-gold)] transition-colors">
+              +91 94250 66170
             </a>
             <span className="text-white/30">·</span>
             <span>Mon–Sat: 9:30 AM – 6:30 PM</span>
@@ -225,10 +225,10 @@ export function Header() {
                 Book Free Consultation
               </Link>
               <a
-                href="tel:+911234567890"
+                href="tel:+919425066170"
                 className="flex items-center justify-center gap-2 mt-3 text-sm text-[var(--color-muted)] hover:text-[var(--color-primary)] transition-colors"
               >
-                <Phone size={14} /> +91 12345 67890
+                <Phone size={14} /> +91 94250 66170
               </a>
             </div>
           </nav>

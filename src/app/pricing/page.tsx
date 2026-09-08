@@ -8,7 +8,7 @@ import { CheckCircle, PhoneCall } from "lucide-react";
 import pricingData from "@/data/pricing.json";
 
 export const metadata: Metadata = {
-  title: "Pricing Plans | Sharma & Associates CA",
+  title: "Pricing Plans | MD Backoffice CA",
   description:
     "Transparent, no-surprise pricing for ITR filing, GST compliance, business accounting, and corporate services. Plans starting at ₹1,499.",
 };

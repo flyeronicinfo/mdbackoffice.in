@@ -87,7 +87,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const svc = serviceData[resolvedSlug];
   if (!svc) return { title: "Service Not Found" };
   return {
-    title: `${svc.title} | Sharma & Associates CA`,
+    title: `${svc.title} | MD Backoffice CA`,
     description: svc.tagline,
   };
 }

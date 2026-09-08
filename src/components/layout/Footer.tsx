@@ -113,26 +113,26 @@ export function Footer() {
                 <MapPin size={15} className="text-[var(--color-accent)] mt-0.5 flex-shrink-0" />
                 <span className="text-white/60 text-sm leading-relaxed">
                   {/* PLACEHOLDER — Replace with actual office address */}
-                  12, Finance Tower, MG Road,<br />
-                  Bengaluru, Karnataka 560001
+                  Finance Tower, AB Road,<br />
+                  Indore, Madhya Pradesh 452001
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={15} className="text-[var(--color-accent)] flex-shrink-0" />
                 <a
-                  href="tel:+911234567890"
+                  href="tel:+919425066170"
                   className="text-white/60 text-sm hover:text-[var(--color-accent)] transition-colors"
                 >
-                  +91 12345 67890
+                  +91 94250 66170
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={15} className="text-[var(--color-accent)] flex-shrink-0" />
                 <a
-                  href="mailto:info@sharmaassociates.in"
+                  href="mailto:info@mdbackoffice.in"
                   className="text-white/60 text-sm hover:text-[var(--color-accent)] transition-colors"
                 >
-                  info@sharmaassociates.in
+                  info@mdbackoffice.in
                 </a>
               </li>
             </ul>
@@ -149,7 +149,7 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-[1200px] mx-auto px-6 py-5 flex flex-col md:flex-row items-center justify-between gap-3">
           <p className="text-white/40 text-xs">
-            © {new Date().getFullYear()} Sharma &amp; Associates. All rights reserved.{" "}
+            © {new Date().getFullYear()} MD Backoffice. All rights reserved.{" "}
             {/* PLACEHOLDER — Replace firm name */}
           </p>
           <p className="text-white/30 text-xs text-center md:text-right max-w-lg">

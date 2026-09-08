@@ -37,9 +37,9 @@ import pricingData from "@/data/pricing.json";
 import faqData from "@/data/faq.json";
 
 export const metadata: Metadata = {
-  title: "Chartered Accountants & Financial Advisory | Sharma & Associates",
+  title: "Chartered Accountants & Financial Advisory | MD Backoffice",
   description:
-    "Trusted CA firm in Bengaluru — expert ITR filing, GST compliance, company incorporation, audit, bookkeeping, NRI taxation, and tax planning. Book a free consultation today.",
+    "Trusted CA firm in Indore, Madhya Pradesh — expert ITR filing, GST compliance, company incorporation, audit, bookkeeping, NRI taxation, and tax planning. Book a free consultation today.",
 };
 
 const personas = [
@@ -256,7 +256,7 @@ export default function HomePage() {
             <div>
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--color-accent-gold)]/20 border border-[var(--color-accent-gold)]/30 text-[var(--color-accent-gold)] text-xs font-bold uppercase tracking-widest mb-6">
                 <span className="w-1.5 h-1.5 rounded-full bg-[var(--color-accent-gold)]" />
-                Trusted CA Firm · Bengaluru
+                Trusted CA Firm · Indore, MP
               </div>
 
               <h1 className="text-white font-extrabold leading-[1.08] mb-6 text-[clamp(2.25rem,4.5vw,3.5rem)]">
@@ -366,7 +366,7 @@ export default function HomePage() {
       <SectionWrapper id="why-choose-us">
         <AnimatedSection>
           <SectionHeader
-            eyebrow="Why Sharma & Associates"
+            eyebrow="Why MD Backoffice"
             title="The CA Firm That Treats You Like a Priority"
             subtitle="We combine CA-grade expertise with the responsiveness and personal attention you deserve — not just at tax time, but all year round."
           />

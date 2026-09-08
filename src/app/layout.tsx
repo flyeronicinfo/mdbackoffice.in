@@ -11,12 +11,13 @@ export const metadata: Metadata = {
     template: "%s | MD backoffice CA",
   },
   description:
-    "MD backoffice is a Bengaluru-based Chartered Accountancy firm offering ITR filing, GST compliance, company incorporation, audit, bookkeeping, and NRI tax services.",
+    "MD Backoffice is an Indore-based Chartered Accountancy firm serving clients across Madhya Pradesh offering ITR filing, GST compliance, company incorporation, audit, bookkeeping, and NRI tax services.",
   keywords: [
-    "chartered accountant bangalore",
+    "chartered accountant indore",
+    "CA firm madhya pradesh",
     "CA firm india",
-    "ITR filing",
-    "GST registration",
+    "ITR filing indore",
+    "GST registration indore",
     "company incorporation",
     "NRI taxation",
     "tax advisory",
