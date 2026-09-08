@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "question": "What types of clients do you serve?",
+    "answer": "We serve a wide range of clients — salaried individuals, self-employed professionals, traders, NRIs, MSMEs, startups, private limited companies, and LLPs. Whether you need a simple ITR filed or a full-year compliance retainer, we have a service for you."
+  },
+  {
+    "id": "2",
+    "question": "How do I get started with Sharma & Associates?",
+    "answer": "Simply book a free 30-minute consultation through our Contact page. We'll understand your requirements, suggest the right engagement plan, and assign a dedicated CA to your account. Most onboarding is completed within 24 hours."
+  },
+  {
+    "id": "3",
+    "question": "What documents do I need to file my ITR?",
+    "answer": "The basic documents are your Form 16 (from employer), bank statements, AIS/TIS downloaded from the income tax portal, capital gain statements from brokers, and proof of investments (80C, 80D etc.). We send you a tailored checklist once you onboard."
+  },
+  {
+    "id": "4",
+    "question": "Do you serve NRI clients? How does it work remotely?",
+    "answer": "Yes, we have a dedicated NRI desk. All communication happens via email, WhatsApp, and video calls. We handle residential status determination, DTAA claims, TDS refunds, FEMA compliance, and Form 15CA/15CB — entirely remotely."
+  },
+  {
+    "id": "5",
+    "question": "What is your turnaround time for ITR filing?",
+    "answer": "For a complete set of documents, our standard turnaround is 48–72 hours. For simple salaried returns, we often file within 24 hours. Complex cases (capital gains, foreign assets, F&O) may take 3–5 business days."
+  },
+  {
+    "id": "6",
+    "question": "What happens if I receive a notice from the Income Tax Department?",
+    "answer": "All our engagement plans include initial notice management support. For returns filed by us, we handle routine notices at no extra charge. For complex scrutiny assessments, our senior partners represent you before tax authorities."
+  }
+]

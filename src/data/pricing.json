@@ -1,0 +1,56 @@
+[
+  {
+    "id": "individual",
+    "name": "Individual",
+    "tagline": "For salaried professionals & investors",
+    "price": "₹1,499",
+    "period": "per financial year",
+    "featured": false,
+    "cta": "Get Started",
+    "href": "/contact",
+    "features": [
+      "ITR-1 / ITR-2 filing",
+      "Form 16 processing",
+      "Capital gains computation",
+      "AIS/TIS reconciliation",
+      "Dedicated CA manager",
+      "E-filing & acknowledgement"
+    ]
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "tagline": "For SMEs, startups & growing companies",
+    "price": "₹4,999",
+    "period": "per month",
+    "featured": true,
+    "cta": "Talk to a CA",
+    "href": "/contact",
+    "features": [
+      "Monthly bookkeeping",
+      "GST return filing (GSTR-1 & 3B)",
+      "TDS computation & filing",
+      "Income tax return",
+      "ROC annual compliance",
+      "Dedicated senior CA"
+    ]
+  },
+  {
+    "id": "enterprise",
+    "name": "Enterprise",
+    "tagline": "For corporates & high-growth companies",
+    "price": "Custom",
+    "period": "tailored scope",
+    "featured": false,
+    "cta": "Request a Quote",
+    "href": "/contact",
+    "features": [
+      "Statutory & tax audit",
+      "Transfer pricing documentation",
+      "Virtual CFO services",
+      "MIS & board reporting",
+      "Regulatory advisory (FEMA/SEBI)",
+      "Partner-level attention"
+    ]
+  }
+]
