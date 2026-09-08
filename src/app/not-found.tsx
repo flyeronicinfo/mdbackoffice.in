@@ -24,7 +24,7 @@ export default function NotFound() {
             <ArrowLeft size={16} /> View Services
           </Link>
           <a
-            href="tel:+911234567890"
+            href="tel:+919425066170"
             className="inline-flex items-center gap-2 text-[var(--color-muted)] font-semibold px-6 py-3 rounded-xl hover:text-[var(--color-primary)] transition-colors text-sm"
           >
             <Phone size={16} /> Call Us

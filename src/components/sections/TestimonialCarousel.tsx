@@ -9,7 +9,7 @@ const testimonials = [
     name: "Ankit Sharma",
     role: "Senior Engineer, Infosys",
     rating: 5,
-    text: "I had ESOP gains, salary from two companies, and rental income to declare. Sharma & Associates handled everything flawlessly and even found deductions I didn't know I could claim. Saved me nearly ₹60,000!",
+    text: "I had ESOP gains, salary from two companies, and rental income to declare. MD Backoffice handled everything flawlessly and even found deductions I didn't know I could claim. Saved me nearly ₹60,000!",
     tag: "ITR Filing",
   },
   {
@@ -33,7 +33,7 @@ const testimonials = [
     name: "Meera Krishnan",
     role: "CFO, Logistics Company",
     rating: 5,
-    text: "We've been with Sharma & Associates for 8 years now. Their statutory audit team is thorough, professional, and always available for queries. The board has complete confidence in their reports.",
+    text: "We've been with MD Backoffice for 8 years now. Their statutory audit team is thorough, professional, and always available for queries. The board has complete confidence in their reports.",
     tag: "Statutory Audit",
   },
 ];

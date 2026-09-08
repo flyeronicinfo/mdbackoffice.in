@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Our Services | Sharma & Associates CA",
+  title: "Our Services | MD Backoffice CA",
   description:
     "Comprehensive CA services — ITR filing, GST compliance, audit, company incorporation, bookkeeping, NRI taxation, and financial advisory for individuals & businesses.",
 };

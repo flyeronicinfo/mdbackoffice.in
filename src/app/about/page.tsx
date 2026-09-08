@@ -7,13 +7,13 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "About Us | Sharma & Associates CA",
+  title: "About Us | MD Backoffice CA",
   description:
-    "Learn about Sharma & Associates — a Bengaluru-based CA firm with 22+ years of experience in taxation, audit, GST compliance, and financial advisory.",
+    "Learn about MD Backoffice — an Indore-based CA firm with 22+ years of experience in taxation, audit, GST compliance, and financial advisory.",
 };
 
 const milestones = [
-  { year: "2002", title: "Founded", desc: "Established in Bengaluru with a focus on direct taxation and compliance." },
+  { year: "2002", title: "Founded", desc: "Established in Indore with a focus on direct taxation and compliance." },
   { year: "2008", title: "GST & Indirect Tax Wing", desc: "Expanded services to cover indirect taxes ahead of the GST era." },
   { year: "2015", title: "Corporate & NRI Practice", desc: "Launched a dedicated NRI desk and corporate secretarial services." },
   { year: "2020", title: "Cloud-First Transition", desc: "Moved all client workflows to secure cloud platforms for 100% remote servicing." },
@@ -42,7 +42,7 @@ export default function AboutPage() {
               Two Decades of Trust, <span className="text-[var(--color-accent-gold)]">One Commitment to Excellence</span>
             </h1>
             <p className="text-white/70 text-lg max-w-2xl leading-relaxed mb-8">
-              Sharma & Associates is a Bengaluru-based Chartered Accountancy firm founded in 2002. We serve 2,000+ individuals, businesses, and NRIs across India with expert tax, audit, compliance, and financial advisory services.
+              MD Backoffice is an Indore-based Chartered Accountancy firm founded in 2002. We serve 2,000+ individuals, businesses, and NRIs across India with expert tax, audit, compliance, and financial advisory services.
             </p>
             <div className="flex flex-wrap gap-4">
               <Button href="/contact" size="lg" variant="secondary" className="border-white text-white hover:bg-white hover:text-[var(--color-primary)]">
@@ -80,7 +80,7 @@ export default function AboutPage() {
             <p className="text-[var(--color-accent-gold)] font-bold text-xs uppercase tracking-widest mb-3">Our Story</p>
             <h2 className="text-[var(--color-ink)] font-extrabold mb-5">Started Small. Grown With Our Clients.</h2>
             <p className="text-[var(--color-muted)] leading-relaxed mb-4">
-              Sharma & Associates was founded in 2002 by a team of ICAI-qualified Chartered Accountants with a single goal: to give every client — whether a salaried individual or a growing company — the same quality of financial guidance that was once reserved for large corporations.
+              MD Backoffice was founded in 2002 by a team of ICAI-qualified Chartered Accountants with a single goal: to give every client — whether a salaried individual or a growing company — the same quality of financial guidance that was once reserved for large corporations.
             </p>
             <p className="text-[var(--color-muted)] leading-relaxed mb-4">
               Over two decades, we have grown from a small tax practice to a comprehensive financial services firm, adding expertise in GST, audit, corporate law, NRI taxation, transfer pricing, and management consulting along the way.

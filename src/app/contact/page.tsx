@@ -106,9 +106,9 @@ export default function ContactPage() {
 
               <div className="space-y-5 mb-8">
                 {[
-                  { icon: MapPin, label: "Office", value: "12, Finance Tower, MG Road,\nBengaluru, Karnataka 560001" },
-                  { icon: Phone, label: "Phone", value: "+91 12345 67890", href: "tel:+911234567890" },
-                  { icon: Mail, label: "Email", value: "info@sharmaassociates.in", href: "mailto:info@sharmaassociates.in" },
+                  { icon: MapPin, label: "Office", value: "Finance Tower, AB Road,\nIndore, Madhya Pradesh 452001" },
+                  { icon: Phone, label: "Phone", value: "+91 94250 66170", href: "tel:+919425066170" },
+                  { icon: Mail, label: "Email", value: "info@mdbackoffice.in", href: "mailto:info@mdbackoffice.in" },
                   { icon: Clock, label: "Hours", value: "Mon–Sat: 9:30 AM – 6:30 PM\nSundays & Holidays: Closed" },
                 ].map(({ icon: Icon, label, value, href }) => (
                   <div key={label} className="flex items-start gap-4 p-4 bg-[var(--color-surface)] rounded-xl border border-[var(--color-border)]">
@@ -129,7 +129,7 @@ export default function ContactPage() {
 
               {/* WhatsApp CTA */}
               <a
-                href="https://wa.me/911234567890"
+                href="https://wa.me/919425066170"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 w-full bg-[#25D366] text-white font-semibold py-3.5 px-5 rounded-xl hover:bg-[#1ebe5d] transition-colors text-sm justify-center"
