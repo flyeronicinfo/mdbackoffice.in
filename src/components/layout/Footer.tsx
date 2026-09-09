@@ -29,10 +29,10 @@ export function Footer() {
             <Link href="/" className="inline-block mb-5" aria-label="MD backoffice — Home">
               <div className="bg-white rounded-xl px-3 py-2 inline-flex items-center">
                 <Image
-                  src="/logo-full.jpg"
+                  src="/logo-full.png"
                   alt="MD backoffice"
-                  width={200}
-                  height={60}
+                  width={252}
+                  height={48}
                   className="h-12 w-auto object-contain"
                 />
               </div>
