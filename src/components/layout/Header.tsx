@@ -7,13 +7,15 @@ import { Menu, X, ChevronDown, Phone, Shield, Star } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const services = [
-  { label: "ITR Filing", href: "/services/itr-filing" },
-  { label: "GST Registration & Filing", href: "/services/gst-registration-filing" },
-  { label: "Company Incorporation & ROC", href: "/services/company-incorporation" },
+  { label: "Finance & Accounting", href: "/services/accounting-bookkeeping" },
+  { label: "Taxation & GST", href: "/services/gst-registration-filing" },
   { label: "Audit & Assurance", href: "/services/audit-assurance" },
-  { label: "Accounting & Bookkeeping", href: "/services/accounting-bookkeeping" },
-  { label: "Tax Planning & Advisory", href: "/services/tax-planning-advisory" },
-  { label: "NRI Taxation", href: "/services/nri-taxation" },
+  { label: "Financial & Management Analysis", href: "/services/tax-planning-advisory" },
+  { label: "Cost & Process Analysis", href: "/services/accounting-bookkeeping" },
+  { label: "Risk Assessment & Internal Controls", href: "/services/audit-assurance" },
+  { label: "Corporate & Secretarial Compliance", href: "/services/company-incorporation" },
+  { label: "Legal & Regulatory Advisory", href: "/services/nri-taxation" },
+  { label: "Ind AS & IFRS Assignments", href: "/services/audit-assurance" },
 ];
 
 const navLinks = [
