@@ -108,7 +108,7 @@ export default function ContactPage() {
                 {[
                   { icon: MapPin, label: "Office", value: "Finance Tower, AB Road,\nIndore, Madhya Pradesh 452001" },
                   { icon: Phone, label: "Phone", value: "+91 94250 66170", href: "tel:+919425066170" },
-                  { icon: Mail, label: "Email", value: "info@mdbackoffice.in", href: "mailto:info@mdbackoffice.in" },
+                  { icon: Mail, label: "Email", value: "team@mdbackoffice.in", href: "mailto:team@mdbackoffice.in" },
                   { icon: Clock, label: "Hours", value: "Mon–Sat: 9:30 AM – 6:30 PM\nSundays & Holidays: Closed" },
                 ].map(({ icon: Icon, label, value, href }) => (
                   <div key={label} className="flex items-start gap-4 p-4 bg-[var(--color-surface)] rounded-xl border border-[var(--color-border)]">

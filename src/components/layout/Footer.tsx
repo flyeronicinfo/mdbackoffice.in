@@ -129,10 +129,10 @@ export function Footer() {
               <li className="flex items-center gap-3">
                 <Mail size={15} className="text-[var(--color-accent)] flex-shrink-0" />
                 <a
-                  href="mailto:info@mdbackoffice.in"
+                  href="mailto:team@mdbackoffice.in"
                   className="text-white/60 text-sm hover:text-[var(--color-accent)] transition-colors"
                 >
-                  info@mdbackoffice.in
+                  team@mdbackoffice.in
                 </a>
               </li>
             </ul>
