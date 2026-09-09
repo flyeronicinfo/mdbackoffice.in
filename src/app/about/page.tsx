@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { SectionWrapper, SectionHeader } from "@/components/ui/SectionWrapper";
 import { AnimatedSection } from "@/components/ui/AnimatedSection";
 import { Button } from "@/components/ui/Button";
@@ -110,6 +111,41 @@ export default function AboutPage() {
             </div>
           </AnimatedSection>
         </div>
+      </SectionWrapper>
+
+      {/* Founder */}
+      <SectionWrapper surface>
+        <AnimatedSection>
+          <SectionHeader eyebrow="Leadership" title="Meet Our Founder" subtitle="The vision and expertise behind two decades of trusted financial guidance." />
+        </AnimatedSection>
+        <AnimatedSection delay={0.1}>
+          <div className="grid md:grid-cols-[280px_1fr] gap-10 items-start bg-white rounded-2xl border border-[var(--color-border)] p-8 md:p-10">
+            <div className="mx-auto md:mx-0">
+              <Image
+                src="/team/founder-murli-dhar-garg.jpg"
+                alt="CA Murli Dhar Garg, Founder of MD Backoffice"
+                width={280}
+                height={280}
+                className="rounded-2xl object-cover w-[220px] h-[220px] md:w-[280px] md:h-[280px] border border-[var(--color-border)]"
+              />
+            </div>
+            <div>
+              <h3 className="font-extrabold text-[var(--color-ink)] text-xl mb-1">CA Murli Dhar Garg</h3>
+              <p className="text-[var(--color-accent-gold)] font-bold text-xs uppercase tracking-widest mb-4">Founder &amp; Managing Partner</p>
+              <div className="flex flex-wrap gap-2 mb-5">
+                <span className="px-3 py-1 rounded-full bg-[var(--color-primary)]/8 text-[var(--color-primary)] text-xs font-bold">FCA</span>
+                <span className="px-3 py-1 rounded-full bg-[var(--color-primary)]/8 text-[var(--color-primary)] text-xs font-bold">M.Com</span>
+                <span className="px-3 py-1 rounded-full bg-[var(--color-primary)]/8 text-[var(--color-primary)] text-xs font-bold">29+ Years of Experience</span>
+              </div>
+              <p className="text-[var(--color-muted)] leading-relaxed mb-4">
+                CA Murli Dhar Garg is a Fellow Chartered Accountant (FCA) and holds a Master&apos;s degree in Commerce (M.Com), bringing over 29 years of experience in taxation, audit, GST compliance, and financial advisory.
+              </p>
+              <p className="text-[var(--color-muted)] leading-relaxed">
+                Under his leadership, MD Backoffice has grown into a trusted name for individuals, businesses, and NRIs across Indore and Madhya Pradesh — built on a foundation of technical expertise, ethical practice, and client-first service.
+              </p>
+            </div>
+          </div>
+        </AnimatedSection>
       </SectionWrapper>
 
       {/* Values */}
