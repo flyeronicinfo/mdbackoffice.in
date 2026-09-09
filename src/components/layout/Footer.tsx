@@ -171,10 +171,10 @@ export function Footer() {
               Digital Media Partner
             </span>
             <Image
-              src="/partners/flyeronic-logo.svg"
+              src="/partners/flyeronic-logo-cropped.png"
               alt="Flyeronic"
-              width={140}
-              height={32}
+              width={272}
+              height={58}
               className="h-6 w-auto object-contain brightness-0 invert opacity-90 group-hover:opacity-100 transition-opacity duration-300"
             />
           </a>
