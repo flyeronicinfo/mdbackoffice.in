@@ -157,6 +157,29 @@ export function Footer() {
           </p>
         </div>
       </div>
+
+      {/* Partner attribution */}
+      <div className="border-t border-white/5">
+        <div className="max-w-[1200px] mx-auto px-6 py-4 flex justify-center md:justify-end">
+          <a
+            href="https://flyeronic.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group flex items-center gap-2 opacity-40 hover:opacity-70 transition-opacity duration-300"
+          >
+            <span className="text-white/50 text-[11px] tracking-wide">
+              Digital Media Partner
+            </span>
+            <Image
+              src="/partners/flyeronic-logo.svg"
+              alt="Flyeronic"
+              width={72}
+              height={16}
+              className="h-3.5 w-auto object-contain brightness-0 invert opacity-90 group-hover:opacity-100 transition-opacity duration-300"
+            />
+          </a>
+        </div>
+      </div>
     </footer>
   );
 }
