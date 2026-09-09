@@ -113,8 +113,8 @@ export function Footer() {
                 <MapPin size={15} className="text-[var(--color-accent)] mt-0.5 flex-shrink-0" />
                 <span className="text-white/60 text-sm leading-relaxed">
                   {/* PLACEHOLDER — Replace with actual office address */}
-                  Finance Tower, AB Road,<br />
-                  Indore, Madhya Pradesh 452001
+                  138E-II Raj Plaza Complex,<br />
+                  Chhawani, Indore, Madhya Pradesh
                 </span>
               </li>
               <li className="flex items-center gap-3">

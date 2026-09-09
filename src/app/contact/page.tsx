@@ -106,7 +106,7 @@ export default function ContactPage() {
 
               <div className="space-y-5 mb-8">
                 {[
-                  { icon: MapPin, label: "Office", value: "Finance Tower, AB Road,\nIndore, Madhya Pradesh 452001" },
+                  { icon: MapPin, label: "Office", value: "138E-II Raj Plaza Complex,\nChhawani, Indore, Madhya Pradesh" },
                   { icon: Phone, label: "Phone", value: "+91 94250 66170", href: "tel:+919425066170" },
                   { icon: Mail, label: "Email", value: "team@mdbackoffice.in", href: "mailto:team@mdbackoffice.in" },
                   { icon: Clock, label: "Hours", value: "Mon–Sat: 9:30 AM – 6:30 PM\nSundays & Holidays: Closed" },
