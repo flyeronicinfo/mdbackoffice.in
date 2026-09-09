@@ -167,15 +167,15 @@ export function Footer() {
             rel="noopener noreferrer"
             className="group flex items-center gap-2 opacity-40 hover:opacity-70 transition-opacity duration-300"
           >
-            <span className="text-white/50 text-[11px] tracking-wide">
+            <span className="text-white/50 text-xs tracking-wide">
               Digital Media Partner
             </span>
             <Image
               src="/partners/flyeronic-logo.svg"
               alt="Flyeronic"
-              width={72}
-              height={16}
-              className="h-3.5 w-auto object-contain brightness-0 invert opacity-90 group-hover:opacity-100 transition-opacity duration-300"
+              width={140}
+              height={32}
+              className="h-6 w-auto object-contain brightness-0 invert opacity-90 group-hover:opacity-100 transition-opacity duration-300"
             />
           </a>
         </div>
