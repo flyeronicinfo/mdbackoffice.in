@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { inter, plusJakartaSans } from "@/lib/fonts";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { FloatingWhatsApp } from "@/components/layout/FloatingWhatsApp";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -49,6 +50,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <main className="flex-1 pt-16 md:pt-20">{children}</main>
         <Footer />
+        <FloatingWhatsApp />
       </body>
     </html>
   );
