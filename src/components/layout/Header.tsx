@@ -95,11 +95,11 @@ export function Header() {
               aria-label="MD backoffice — Home"
             >
               <Image
-                src="/logo-full.jpg"
+                src="/logo-full.png"
                 alt="MD backoffice"
-                width={220}
-                height={66}
-                className="h-14 w-auto object-contain mix-blend-multiply"
+                width={294}
+                height={56}
+                className="h-14 w-auto object-contain"
                 priority
               />
             </Link>
@@ -181,11 +181,11 @@ export function Header() {
             {/* Mobile logo */}
             <div className="flex items-center mb-4 px-4">
               <Image
-                src="/logo-full.jpg"
+                src="/logo-full.png"
                 alt="MD backoffice"
-                width={200}
-                height={60}
-                className="h-12 w-auto object-contain mix-blend-multiply"
+                width={252}
+                height={48}
+                className="h-12 w-auto object-contain"
               />
             </div>
             {navLinks.map((link) => (

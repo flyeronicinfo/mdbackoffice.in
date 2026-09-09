@@ -25,8 +25,8 @@ export const metadata: Metadata = {
     "MD backoffice",
   ],
   icons: {
-    icon: "/logo-icon.jpg",
-    apple: "/logo-icon.jpg",
+    icon: "/logo-icon.png",
+    apple: "/logo-icon.png",
   },
   openGraph: {
     type: "website",
